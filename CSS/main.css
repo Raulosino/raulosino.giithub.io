@@ -14,7 +14,7 @@ main{
     display: flex;
     background: url(/Image/556529.jpg) no-repeat center center fixed; 
     -webkit-background-size: cover;
-    -moz-background-size: cover;
+    -moz-background-size: cover;@media screen
     -o-background-size: cover;
     background-size: cover;
 }
@@ -26,7 +26,7 @@ main{
 }
 
 
-@media screen and (max-width:490px){
+@media screen and (max-width:320px){
 
     .main-container{
         padding-top: 4rem;
