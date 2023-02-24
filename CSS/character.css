@@ -87,7 +87,7 @@ transition: all 3s linear;
 
 
 
-@media screen and (max-width:490px){
+@media screen and (max-width:320px){
 
     #pixelme {
         width: 110px;
