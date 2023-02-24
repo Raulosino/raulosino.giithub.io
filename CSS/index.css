@@ -17,7 +17,7 @@ ul{
     margin-bottom: 0rem;
 }
 
-@media screen and  (max-width:575px){
+@media screen and  (max-width:320px){
 
     html{
         overflow-x: visible;
