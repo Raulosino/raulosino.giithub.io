@@ -1,0 +1,20 @@
+.about-message-container > div{
+    margin-top: 0rem!important;
+}
+
+
+.about-message-container > div > p {
+    margin-top: 0.5rem;
+}
+
+
+@media screen and (max-width:460px){
+
+    .about-message-container{
+        max-width: 360px;
+    }
+
+    .nes-cointainer > p {
+        font-size: small;
+    }
+}
