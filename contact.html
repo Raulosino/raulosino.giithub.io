@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="content-type" content="text/html ; charset=UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <link
+      href="https://fonts.googleapis.com/css?family=Press+Start+2P"
+      rel="stylesheet"
+    />
+    <link href="https://unpkg.com/nes.css/css/nes.css" rel="stylesheet" />
+
+    <link rel="stylesheet" href="./CSS/index.css" />
+    <link rel="stylesheet" href="./CSS/header.css" />
+    <link rel="stylesheet" href="./CSS/greeting.css" />
+    <link rel="stylesheet" href="./CSS/main.css" />
+    <link rel="stylesheet" href="./CSS/character.css" />
+    <link rel="stylesheet" href="./CSS/about.css" />
+    <link rel="stylesheet" href="./CSS/personal.css" />
+    <link rel="stylesheet" href="./CSS/portofolio.css" />
+
+    <title>Document</title>
+  </head>
+
+  <body>
+
+    <header class="nes-container is-dark">
+      <div class="header-container">
+        <div class="logo-div">
+          <div class="name-container">
+            <p class="nes-btn is-warning">Raul Eduarte</p>
+          </div>
+          <div class='social-media'>
+            <a href="https://github.com/Raulosino"><i class="nes-icon github is-medium"></i></a>
+            <a href="https://www.linkedin.com/in/raul-eduarte-8a4354173/"><i class="nes-icon linkedin is-medium"></i></a>
+          </div>
+        </div>
+
+        <nav>
+          <ul>
+            <li class="portofolio">
+              <a class="nes-btn is-primary" href="https://github.com/Raulosino?tab=repositories">Portfolio</a>
+            </li>
+            <li>
+              <a class="nes-btn is-primary" href="index.html">Home
+              </a>
+            </li>
+          </ul>
+        </nav>
+
+        <div class="menu-button" id="dropdown">
+          <button class="nes-btn is-primary" id="dropbtn" onclick="dropDownMenu()">▼</button>
+          <div id="myDropdown" class="dropdown-content">
+            <a class="nes-btn is-primary" href="index.html">Home</a>
+            <a class="nes-btn is-primary" href="https://github.com/Raulosino?tab=repositories">Portafolio</a>
+          </div>
+        </div>
+      </div>
+    </header>
+
+    <main>
+      <div class="main-container">
+
+        <section class="pt-6 pb-5" id="contact">
+            <div class="container">
+                <div class="mb-1">
+                    <!-- About Section Heading-->
+                    <h2 class="page-section-heading text-center text-uppercase text-black mt-2">Contact me!</h2>
+                <!-- Contact Section Form-->
+                <div class="row">
+                    <div class="col-lg-8 mx-auto form-style">
+                        <!-- action="https://formsubmit.co/eduarteraul@gmail.com" -->
+                        <form id="contactForm" method="POST" name="sentMessage" novalidate="novalidate">
+                            <div class="control-group">
+                                <div class="form-group floating-label-form-group controls mb-0 pb-2">
+                                    <input class="form-control" id="name" name="name" type="text" placeholder="Name:"
+                                        required="required"
+                                        data-validation-required-message="Please write your name" />
+                                    <p class="help-block text-danger"></p>
+                                </div>
+                            </div>
+                            <div class="control-group">
+                                <div class="form-group floating-label-form-group controls mb-0 pb-2">
+                                    <input class="form-control" id="email" name="email" type="email"
+                                        placeholder="Email: " data-validation-required-message=" Please provide an email address" />
+                                    <p class="help-block text-danger"></p>
+                                </div>
+                            </div>
+
+                            <div class="control-group">
+                                <div class="form-group floating-label-form-group controls mb-0 pb-2">
+                                    <textarea class="form-control" id="message" name="message" rows="5"
+                                        placeholder="Message:" data-validation-required-message=""></textarea>
+                                </div>
+                            </div>
+                            <br />
+                            <div id="success"></div>
+                            <div class="form-group button-div">
+                                <button class="btn btn-primary btn-xl" id="sendMessageButton" type="submit">Enviar</button>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <br /><br />
+        <div class="portofolio-container">
+          <div class="nes-container with-title">
+            <div href="#" class="nes-badge title">
+              <span class="is-primary title">Portfolio</span>
+            </div>
+            <div class="github-container">
+              <a href="https://github.com/Raulosino">
+                <i class="nes-octocat animate"></i>
+              </a>
+              <p>Find me on github</p>
+            </div>
+            <div class="react-container">
+            </div>
+          </div>
+         
+        </div>
+
+      </div>
+    </main>
+
+    <script src="./JS/character.js"></script>
+    <script src="./JS/header.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+
+  </body>
+</html>
