@@ -2,7 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+new&color=%23808080&size=40&width=800&duration=6969&lines=Welcome+to+my+profile!)](https://git.io/typing-svg)
 # <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Hi there, I'm Raul
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=blue&link=[https://www.linkedin.com/in/kevin-feng-87a174202/](https://www.linkedin.com/in/raul-eduarte-8a4354173/?originalSubdomain=de))]([https://www.linkedin.com/in/kevin-feng-87a174202/](https://www.linkedin.com/in/raul-eduarte-8a4354173/?originalSubdomain=de))
+[![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=blue&link=[https://www.linkedin.com/in/kevin-feng-87a174202/](https://www.linkedin.com/in/raul-eduarte-8a4354173/?originalSubdomain=de))]([https://www.linkedin.com/in/raul-eduarte-8a4354173/?originalSubdomain=de])
 
 :school: Currently studying Software Development</br>
 :fountain_pen: I have a passion for coding</br>
