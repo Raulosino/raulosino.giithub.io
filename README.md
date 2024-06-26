@@ -10,7 +10,7 @@
 :computer: I love IT and providing solutions</br>
 :mailbox: How to reach me: <a href="mailto:eduarteraul@gmail.com">eduarteraul@gmail.com</a>
 
-| <a href="https://github.com/raulosino/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=kevinfengcs88&theme=github_dark&hide=contribs,issues&show_icons=true&hide_border=true" alt="Kevin's github stats" /></a> | <a href="https://github.com/raulosino/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinfengcs88&theme=github_dark&layout=compact&hide_border=true" /></a> |
+| <a href="https://github.com/raulosino/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=raulosino&theme=github_dark&hide=contribs,issues&show_icons=true&hide_border=true" alt="Raul's github stats" /></a> | <a href="https://github.com/raulosino/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raulosino&theme=github_dark&layout=compact&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 ## Languages and Tools:
