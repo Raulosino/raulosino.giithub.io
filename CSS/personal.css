@@ -13,7 +13,7 @@ LEFT CONTAINER
 .personal-container > div:nth-child(1){
     background:white;
     padding-left: 1.5rem!important;
-    /* min-width: 400px */
+    flex:1;
 }
 
 .languages{
@@ -40,6 +40,7 @@ RIGHT CONTAINER
     margin-left: 3rem;
     background-color: white;
     padding-left: 1.5rem!important;
+    flex: 1;
 }
 
 .interest-container{
